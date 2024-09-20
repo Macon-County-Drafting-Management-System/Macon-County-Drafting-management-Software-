@@ -1,0 +1,24 @@
+Meeting Minutes of Discovery Meeting with Project Sponsor
+
+There are three main features that the system needs: 
+- Templates management
+- Files management
+- User management
+
+The State's Attorney current process of crafting a document is: 
+  picking and duplicating the Word documents from previous cases -> mannually change the information (name, DOB, court room, ...)
+
+So the problem is:
+  one person (or case) can have multiple documents. some documents may have multiple similar information fields. -> the more documents the more time-consuming of the process. 
+
+What they need:
+  can choose multiple templates from one place -> enter the information one time only for all documents that have same fields -> information they enter can be automatically filled in the documents. 
+  after they input all information, they can download the documents to their computer/desktop. the format of documents is mostly Word. 
+  can manage the user roles in the system. 
+
+What they don't need:
+  collaborative workspace, like Google Docs. They don't want to change or edit the documents directly on the system. They only need documents automatically crafted following the templates, and then they will download and make changes internally by whatever ways. 
+  store personal information. Anything down to individual level will not be stored in the system. 
+
+Their next step:
+  they will provide our team with the templates and how to categorize them. 
