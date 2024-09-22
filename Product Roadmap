@@ -29,11 +29,15 @@ Milestones & Issues:
   #6 Set up a design system on Figma
 
 2nd Milestone: 
-  #1
-  #2
-  #3
-  #4
-  #5
+  #1 As a user, I want to see the first page of Templates management function so that I can view all templates and start working with them. 
+  #2 As a user*, I want to be able upload a document that becomes a template.
+  #3 As a user, I want to be able to select any number of templates to work on all at once.
+  #4 As a user, I want to be able to categorize templates.
+  #5 As a user, I want to be able to quickly find the template I want to use.
+  #6 As a user, I want to be able to remove templates from my selection in case of accidents.
+  #7 As a user, I want to be able to see a preview of what may be on a template that I forgot the contents of.
+  #8 As a user, I want to be able to see what fields may be required for a template.
+  #9 As a user, 
 
 3rd Milestone: 
   #1
