@@ -3,14 +3,30 @@ Date: 09/13/24
 
 Continue to update: Team Meeting - Sun 22 4pm
 
+Epics:
+  - Templates management
+  - Files management
+  - Documents drafting
+  - User management 
+  - Log in/Sign up
+
+Milestones: 
+  - Discovery and System Design Base Setup
+  - Prototype for Templates management function
+  - Prototype for Files management function
+  - Prototype for Documents Drafting function
+  - Prototype for User management function
+  - Prototype for Log in/Sign up
+
 Milestones & Issues:
 
-1st Milestone: 
-  #1 As a user, I want to 
-  #2
-  #3
-  #4
-  #5
+1st Milestone: Discovery and System Design Base Setup
+  #1 As a user, I want to see all main pages in header or left-side panel so that I can navigate easily in the system.
+  #2 As a user, I want to see the first page of Templates management function so that I can view all templates and start working with them.
+  #3 As a user, I want to see the first empty page of Files management function so that I can start drafting a new document.
+  #4 As a user, I want to see the first page of Documents Drafting function so that I can start drafting a document with information.
+  #5 As a user, I want to see the first page of User management function so that I can view all people (accounts) roles or access.
+  #6 Set up a design system on Figma
 
 2nd Milestone: 
   #1
