@@ -6,17 +6,18 @@ Continue to update: Team Meeting - Sun 22 4pm
 Epics:
   - Templates management
   - Files management
-  - Documents drafting
+  - Documents Drafting (not quite sure about the epic name)
   - User management 
   - Log in/Sign up
 
 Milestones: 
   - Discovery and System Design Base Setup
-  - Prototype for Templates management function
-  - Prototype for Files management function
-  - Prototype for Documents Drafting function
-  - Prototype for User management function
-  - Prototype for Log in/Sign up
+  - UI design for Templates management function
+  - UI design for Files management function
+  - UI design for Documents Drafting function
+  - UI design for User management function
+  - UI design for Log in/Sign up
+  - Prototyping for all functions
 
 Milestones & Issues:
 
@@ -28,9 +29,9 @@ Milestones & Issues:
   #5 As a user, I want to see the first page of User management function so that I can view all people (accounts) roles or access.
   #6 Set up a design system on Figma
 
-2nd Milestone: 
+2nd Milestone: UI design for Templates management function
   #1 As a user, I want to see the first page of Templates management function so that I can view all templates and start working with them. 
-  #2 As a user*, I want to be able upload a document that becomes a template.
+  #2 As a user, I want to be able upload a document that becomes a template.
   #3 As a user, I want to be able to select any number of templates to work on all at once.
   #4 As a user, I want to be able to categorize templates.
   #5 As a user, I want to be able to quickly find the template I want to use.
@@ -39,21 +40,35 @@ Milestones & Issues:
   #8 As a user, I want to be able to see what fields may be required for a template.
   #9 As a user, 
 
-3rd Milestone: 
+3rd Milestone: UI design for Files management function
   #1
   #2
   #3
   #4
   #5
 
-4th Milestone: 
+4th Milestone: UI design for Documents Drafting function
   #1
   #2
   #3
   #4
   #5
 
-5th Milestone: 
+5th Milestone: UI design for User management function
+  #1
+  #2
+  #3
+  #4
+  #5
+
+6th Milestone: UI design for Log in/Sign up
+  #1
+  #2
+  #3
+  #4
+  #5
+
+7th Milestone: Prototyping for all functions
   #1
   #2
   #3
