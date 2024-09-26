@@ -41,11 +41,11 @@ Milestones & Issues:
   #9 As a user, 
 
 3rd Milestone: UI design for Files management function
-  #1
-  #2
-  #3
-  #4
-  #5
+  #1 As a user, I want to see the first empty page of the Files Management function so I can view all the documents I have created.
+  #2 As a user, I want to upload documents to the system and see them listed in my Files Management dashboard. 
+  #3 As a user, I want to be able to organize my documents into folders or categories for easy retrieval.
+  #4 As a user, I want to have a search function so I can quickly find the documents I need.
+  #5 As a user, I want to be able to download, rename, or delete files directly from the Files Management page.
 
 4th Milestone: UI design for Documents Drafting function
   #1
