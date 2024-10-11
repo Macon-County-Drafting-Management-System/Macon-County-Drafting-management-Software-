@@ -49,11 +49,11 @@ Milestones & Issues:
 
 4th Milestone: UI design for Documents Drafting function
   #1 As a user, I want some editable filds when starting a new document.
-  #2 As a user, I want a template previes on real time in the middle of the screen.
+  #2 As a user, I want a template preview on real time in the middle of the screen.
   #3 As a user, I want a progress bar at the top of the screen, so I have an idea on how much porgress I have done and what do I have left
   #4 As a user, I want a common selected templates to save time to the user.
   #5 As a user, I want to be able to save and/or export the template.
-  #6 As a user, I want to be able so save a draft and continue to finish it alter on.
+  #6 As a user, I want to be able so save a draft and continue to finish it later on.
   #5 As a user, I want to be able to select/deselect multiple templates at the same times.
   #6 As I user, I want some data to be auto filled if it is the same case, like date and personal information, so it can save me time.
 
