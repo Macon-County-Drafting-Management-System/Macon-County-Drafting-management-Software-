@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>Example of Test</title>
+</head>
+<body>
+	<h3>Click on the button below to run the test</h3>
+	<p>Then check Console to see the results</p>
+	<button>Click Me!</button>
+	<script>
+	const button = document.querySelector("button")
+	
+	button.addEventListener("click", (event) => {
+		button.textContent = 'You clicked me!';
+	});
+	</script>
+</body>
+</html>
