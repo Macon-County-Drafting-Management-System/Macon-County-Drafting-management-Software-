@@ -1,0 +1,17 @@
+public void testSanitize() {
+  //using these as test cases, so I don't have to write up new ones all the time
+  final String[][] TESTCASES = {
+        {"Bobby\\'\\;Drop tables students\\;\\-", "Bobby';Drop tables students;--"}.
+        {"May I do that\\.", "May I do that.'},
+        {"",""},
+        {"\\>\\; ls\\-al\\#", ">; ls -al#"}
+  };
+
+  //check each testcase (if index 0 is Equal to index 1 sent to sanitize function
+  for (String[] t: TESTCASES) {
+        // print out the sanitized version (to check manually)
+        System.out.println(cAndC.sanitize(t[1]));
+        // check index 0 against index 1
+        assertEquals(t[0], cAndC.sanitize(t[1]));
+  }
+}
