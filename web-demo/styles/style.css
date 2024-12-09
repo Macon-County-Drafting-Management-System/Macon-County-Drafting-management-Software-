@@ -1,4 +1,4 @@
-html{
+html, h1, input, button{
 font-size: 12px;
 font-famly: "Open Sans", sans-serif;
 }
@@ -24,12 +24,14 @@ letter-spacing: 1px;
 }
 
 button {
-    display: block;
+display: block;
 text-align: center;
-
 }
 
-
+input {
+margin: 0.4rem 0;
+line-height: 1
+}
 
 img{
 display: block;
